@@ -2,8 +2,8 @@ import React, { useState, useEffect, useRef } from "react";
 import { SQUADS_ALLTIME, SQUADS_WC26, OPPONENTS } from "./data";
 
 // ☕ Replace with your own Buy Me a Coffee page before launch
-const BMC_LINK = "https://buymeacoffee.com/YOUR_PAGE_HERE";
-const SITE_NAME = "Road to 8–0"; // appears on share images
+const BMC_LINK = "https://buymeacoffee.com/jfrenklah735";
+const SITE_NAME = "https://www.8-0worldcup.com/"; // appears on share images
 
 // ── persistence (localStorage on a real site, in-memory fallback elsewhere) ──
 let mem = {};
